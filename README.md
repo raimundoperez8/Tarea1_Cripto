@@ -4,7 +4,7 @@ Codigos de automatizacion de funciones para sitios web auditados
 Para el sitio chileno, los scripts utilizados son:
 
 * creacion cuenta:
-* inicio sesion: fb_sepuls.py
+* inicio sesion: ```fb_sepuls.py```
 * restablecimiento contraseña:
 * modificacion de contraseña:
 
