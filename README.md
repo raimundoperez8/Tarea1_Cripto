@@ -13,6 +13,6 @@ Para el sitio europeo, los scripts utilizados son:
 * creacion cuenta: ```cuenta_corteingles.py```
 * inicio sesion: ```fb_corteingles.py```
 * restablecimiento contraseña: ```rest_psw_ci.py```
-* modificacion de contraseña: ```mod_psw_ci.py```
+* modificacion de contraseña: No se puede ingresar a la cuenta desde el script, por lo que no es posible automatizar la modificacion
 
 En cuanto a la creacion de cuenta, el script rellena los campos automaticamente, sin embargo los checkbox y la finalizacion del proceso se deben hacer de forma manual, ya que el sitio detecta e impide el checkeo automatico.
